@@ -35,12 +35,12 @@ body {
         height: 250px;
         margin: 20px 0;
     }
-    link {
+   .link {
         color: antiquewhite;
     }
-    gallery {
+    .gallery {
     background-color: aquamarine;
     }
-    gellery-list{
+    .gellery-list{
         padding: 40px 0;
     }
